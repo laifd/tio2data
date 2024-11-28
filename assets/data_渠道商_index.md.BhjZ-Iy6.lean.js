@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DXSyntku.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"data/渠道商/index.md","filePath":"data/渠道商/index.md"}'),n={name:"data/渠道商/index.md"};function d(o,r,s,c,i,p){return a(),t("div")}const f=e(n,[["render",d]]);export{m as __pageData,f as default};
