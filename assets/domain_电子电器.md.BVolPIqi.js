@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Cj_rLs_y.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"domain/电子电器.md","filePath":"domain/电子电器.md"}'),o={name:"domain/电子电器.md"};function n(r,s,c,_,d,i){return a(),t("div")}const f=e(o,[["render",n]]);export{p as __pageData,f as default};
